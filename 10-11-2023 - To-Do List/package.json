@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "To-do List - ENTRA21",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMorez/TypeScript-Entra21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMorez/TypeScript-Entra21/issues"
+  },
+  "homepage": "https://github.com/GabrielMorez/TypeScript-Entra21#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}

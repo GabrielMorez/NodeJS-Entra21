@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "javascript",
+        "target": "ES6",
+        "module": "commonjs",
+        "downlevelIteration": true
+    },
+    "include": ["typescript/**/*"]
+}
